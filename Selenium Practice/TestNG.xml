@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name = "runtestcases">
+
+
+<test name = "practice">
+
+
+<classes>
+<!--  
+<class name = "TestNG.Activity1"/>
+<class name = "TestNG.Activity1Refactored"/>
+<class name = "TestNG.DrivingCar"/>
+<class name = "TestNG.DrivingCar"/>
+<class name = "TestNG.LearningHierarchy"/>
+<class name = "TestNG.First"/>
+
+-->
+
+
+</classes>
+
+
+
+</test>
+
+
+</suite>
